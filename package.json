@@ -1,0 +1,19 @@
+{
+  "name": "rohapp",
+  "version": "1.0.0",
+  "description": "APP",
+  "main": "service-worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheChurchOnline/ROHapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheChurchOnline/ROHapp/issues"
+  },
+  "homepage": "https://github.com/TheChurchOnline/ROHapp#readme"
+}
