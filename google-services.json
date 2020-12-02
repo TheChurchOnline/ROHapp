@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "946033773813",
+    "firebase_url": "https://roh-app-f520d.firebaseio.com",
+    "project_id": "roh-app-f520d",
+    "storage_bucket": "roh-app-f520d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946033773813:android:34af09db38d4267793c9bc",
+        "android_client_info": {
+          "package_name": "com.rayofhopega.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946033773813-msvhfn96h4q1gb248dr8bld2dplgbhvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5qGrRWqpgue0Gx0RI93egtGmxTXQGnFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946033773813-msvhfn96h4q1gb248dr8bld2dplgbhvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
