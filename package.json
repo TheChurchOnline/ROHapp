@@ -1,22 +1,23 @@
 {
   "name": "rohapp",
   "version": "1.0.0",
-  "description": "APP",
-  "main": "service-worker.js",
+  "description": "app",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TheChurchOnline/ROHapp.git"
   },
-  "author": "jade manlutac",
+  "keywords": [
+    "rohapp"
+  ],
+  "author": "Jade M\\anlutac",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/TheChurchOnline/ROHapp/issues"
   },
-  "homepage": "https://github.com/TheChurchOnline/ROHapp#readme",
-  "keywords": [
-    "roh"
-  ]
+  "cordova-plugin-inappbrowser": "git+https://github.com/apache/cordova-plugin-inappbrowser.git",
+  "homepage": "https://github.com/TheChurchOnline/ROHapp#readme"
 }
