@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TheChurchOnline/ROHapp/issues"
   },
-  "homepage": "https://github.com/TheChurchOnline/ROHapp#readme"
+  "homepage": "https://github.com/TheChurchOnline/ROHapp#readme",
+  "keywords": [
+    "roh"
+  ]
 }
