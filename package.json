@@ -19,5 +19,8 @@
     "url": "https://github.com/TheChurchOnline/ROHapp/issues"
   },
   "cordova-plugin-inappbrowser": "git+https://github.com/apache/cordova-plugin-inappbrowser.git",
-  "homepage": "https://github.com/TheChurchOnline/ROHapp#readme"
+  "homepage": "https://github.com/TheChurchOnline/ROHapp#readme",
+  "dependencies": {
+    "@ionic/angular-toolkit": "^3.0.0"
+  }
 }
