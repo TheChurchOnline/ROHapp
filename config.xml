@@ -12,6 +12,8 @@
    <description><![CDATA[Ray Of Hope GA]]></description>
    <author href="https://thechurchonline.com/" email="web@thechurchonline.com">The Church Online</author>
 
+ 	<platform name="ios" />
+    <platform name="android" />
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist"  mode="merge">
         <string>100</string>
