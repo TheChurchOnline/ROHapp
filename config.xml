@@ -6,7 +6,7 @@
     xmlns:gap="http://phonegap.com/ns/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="com.rayofhopega.app"
-    version="2.0.0">
+    version="2.1.0">
    
    <name>Ray Of Hope GA</name>
    <description><![CDATA[Ray Of Hope GA]]></description>
